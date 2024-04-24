@@ -55,5 +55,5 @@ For inquiries, feedback, or support, please contact the project maintainer(s) at
 ---
 
 **Screenshot**:
-![Nike Landing Page for Shoes Screenshot](screenshot.png)
+![Nike Landing Page for Shoes Screenshot](Nike.png)
 
